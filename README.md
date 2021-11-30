@@ -31,7 +31,7 @@ def circulate():
  ```
 
 ## Output:
-![github logo](image.png
+![github logo](image.png)
 
 ## Result:
 circulate the values of n variables completed sucssesfully
